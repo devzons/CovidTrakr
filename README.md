@@ -10,7 +10,7 @@ Some key Aspects are:
 
 ![Alt text](https://i.ibb.co/9vsnyB8/Screen-Shot.jpg)
 
-Deployed live on https://devzons.github.io/CovidTrakr/
+Live on https://covidtrakr-a23d0.web.app/
 
 ### API
 
